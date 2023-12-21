@@ -14,9 +14,9 @@ function processBioFormatFiles(currentDirectory) {
 
 	fileList = getFileList(currentDirectory);
 	
-	//for (file = 38; file < fileList.length; file++) {  //！！！一旦中断，可以修改file=0，如已经算了3个lif,就可以从file=3继续。
 
-	for (file = 0; file < fileList.length; file++) {  //！！！一旦中断，可以修改file=0，如已经算了3个lif,就可以从file=3继续。
+
+	for (file = 0; file < fileList.length; file++) {  
 		
 		Ext.isThisType(currentDirectory + fileList[file], supportedFileFormat);
 		
