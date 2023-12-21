@@ -1,1 +1,1 @@
-This repository contain original code for a Python-based deep-learning approach and a Fiji-based machine-learning approach![image](https://github.com/Yuying-Jin-Wuerzbug/TRPV1_quantification_in_skin/assets/127846240/b32e28fd-bd69-427f-b17f-af544e5ee8ea)
+This repository contain original code for a Python-based deep-learning approach and a Fiji-based machine-learning approach!
